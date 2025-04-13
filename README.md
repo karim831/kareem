@@ -19,8 +19,11 @@
 
 <a href="https://www.linkedin.com/in/karem-osama-1216b125b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:karemosama259@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/kArIm_OS" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/KArIm20" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
+![C/C++](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=007ACC)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,3 +31,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
